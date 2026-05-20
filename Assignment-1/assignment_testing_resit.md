@@ -2,9 +2,9 @@
 
 The resit is individual, that is, not a group work.
 
-To resit, you must fill out a [form](LINK) (you can access the spreadsheet with your VU email address) so that we can arrange the presentation day.
+To resit, you must fill out a [form](https://docs.google.com/forms/d/e/1FAIpQLSc_H4YnkTO8HogZ2pyUsVsfnkjANveswb4ZXTpm3h3NFhxnEg/viewform) (you can access the spreadsheet with your VU email address) so that we can arrange the presentation day.
 
-Deadline for registering: **TBD** of July.
+Deadline for registering: 3rd of July.
 
 ## 1. Goal
 
@@ -26,11 +26,11 @@ For the presentation, you should share your screen, and the evaluator will ask t
 
 **Deadlines**:
 
-- Deadline for signing up for presentation: **TBD** of July.
+- Deadline for signing up for presentation (the link will be provided): 5th of July.
 
-- Deadline for deliverables: **TBD** of July.
+- Deadline for deliverables: 8th of July.
 
-- Presentation day: **TBD** of July.
+- Presentation day: 9th of July.
 
 ## 3. Tasks
 

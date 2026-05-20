@@ -20,7 +20,7 @@ For the presentation, one group member should share their screen, and the evalua
 
 **Deadlines**:
 
-- Deadline for signing up for the presentation ([here](LINK)): **TBD**.
+- Deadline for signing up for the presentation (the link will be provided): 7th of June.
 
 - Deadline for deliverables: 11th of June.
 
@@ -34,7 +34,7 @@ Each group will create a small, structured, and testable software project. The g
 
 More details of the minimum criteria for the project and code structures to be used are available in Section 3.3 below.
 
-Before starting, each group must register and define the purpose of their project [here](LINK) (**do not request access to the file; be logged in with your VU email instead**). The description of the project proposal must be clear. Each group should check in the spreadsheet what the other groups have already registered because duplicate projects are not allowed.
+Before starting, each group must register and define the purpose of their project [here](https://docs.google.com/spreadsheets/d/1gLORGlUUL7j0hKME1MbRZqiG5xrpFKNmeEDB4bicB7g/edit?usp=sharing) (**do not request access to the file; be logged in with your VU email instead**). The description of the project proposal must be clear.
 
 ### 3.2 Set Up Your GitHub Repository
 
