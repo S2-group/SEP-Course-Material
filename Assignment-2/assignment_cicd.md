@@ -22,11 +22,11 @@ For the presentation, one group member should share their screen, and the evalua
 
 **Deadlines**:
 
-- Deadline for signing up for the presentation (the link will be provided): 21st of June.
+- Deadline for signing up for the presentation (the link will be provided): **21st of June**.
 
-- Deadline for deliverables: 25th of June.
+- Deadline for deliverables: **25th of June**.
 
-- Presentation day: 26th of June.
+- Presentation day: **26th of June**.
 
 ## 3. Tasks
 
