@@ -26,9 +26,9 @@ For the presentation, you should share your screen, and the evaluator will ask t
 
 **Deadlines**:
 
-- Deadline for signing up for presentation (the link will be provided): **5th of July**.
+- Deadline for signing up for presentation (the link will be provided): **5th of July, 23:59 AMS time**.
 
-- Deadline for deliverables: **8th of July**.
+- Deadline for deliverables: **8th of July, 23:59 AMS time**.
 
 - Presentation day: **9th of July**.
 
