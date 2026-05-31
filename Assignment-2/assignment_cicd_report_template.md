@@ -34,3 +34,7 @@ Programming language used: <Python or Java>
 | Member B | | | |
 | Member C | | | |
 | Member D | | | |
+
+## GenAI Declaration
+
+TODO: Students are required to include a declaration of GenAI use in their work, clearly explaining how GenAI was applied. It is the student’s responsibility to ensure this declaration is both concise and complete. Examples of acceptable declarations include a GenAI log or chat history, an appendix containing prompts or the original text prior to GenAI use, and a brief reflection outlining how and why GenAI was used.
