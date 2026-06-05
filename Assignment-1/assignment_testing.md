@@ -131,8 +131,8 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>1) Creation of the project.</td>
             <td>
-                <strong>2 Pts:</strong> There is evidence in the report that each member of the group implemented at least three functions of the application.<br>
-                <strong>1 Pt:</strong> There is evidence in the report that members created functions, but not three per member.<br>
+                <strong>2 Pts:</strong> There is evidence in the report that each member of the group implemented at least three test functions of the application.<br>
+                <strong>1 Pt:</strong> There is evidence in the report that members created test functions, but not three per member.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
             <td>2 pts</td>
