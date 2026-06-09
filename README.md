@@ -2,4 +2,4 @@
 
 Course Material for the Software Engineering Processes Course
 
-Hello World!
+Hello Maven!
