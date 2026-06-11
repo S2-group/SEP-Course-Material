@@ -129,19 +129,10 @@ To have a grade > 0, the following criteria must be met:
     </thead>
     <tbody>
         <tr>
-            <td>1) Creation of the project.</td>
-            <td>
-                <strong>2 Pts:</strong> There is evidence in the report that each member of the group implemented at least three test functions of the application.<br>
-                <strong>1 Pt:</strong> There is evidence in the report that members created test functions, but not three per member.<br>
-                <strong>0 Pts:</strong> Otherwise.
-            </td>
-            <td>2 pts</td>
-        </tr>
-        <tr>
             <td>2) Creation of the initial tests.</td>
             <td>
-                <strong>2 Pts:</strong> There is evidence in the report that each member of the group created one test case.<br>
-                <strong>1 Pt:</strong> There is evidence in the report that some members created one test case, but not all.<br>
+                <strong>2 Pts:</strong> There is evidence in the report that each member of the group created one test function.<br>
+                <strong>1 Pt:</strong> There is evidence in the report that some members created one test function, but not all.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
             <td>2 pts</td>
@@ -157,7 +148,7 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>4) Creation of new tests for coverage improvement.</td>
             <td>
-                <strong>2 Pts:</strong> There is evidence (code) that each student created two new test cases.<br>
+                <strong>2 Pts:</strong> There is evidence (code) that each student created two new test functions. <br>
                 <strong>1 Pt:</strong> There is evidence (code) that the group created some new tests, but not two per member.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
