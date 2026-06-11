@@ -129,7 +129,7 @@ To have a grade > 0, the following criteria must be met:
     </thead>
     <tbody>
         <tr>
-            <td>2) Creation of the initial tests.</td>
+            <td>Creation of the initial tests.</td>
             <td>
                 <strong>2 Pts:</strong> There is evidence in the report that each member of the group created one test function.<br>
                 <strong>1 Pt:</strong> There is evidence in the report that some members created one test function, but not all.<br>
@@ -138,7 +138,7 @@ To have a grade > 0, the following criteria must be met:
             <td>2 pts</td>
         </tr>
         <tr>
-            <td>3) Execution of existing coverage measurement tool on the initial tests.</td>
+            <td>Execution of existing coverage measurement tool on the initial tests.</td>
             <td>
                 <strong>2 Pts:</strong> There is evidence (screenshot of the results) that a tool was executed on the initial tests.<br>
                 <strong>0 Pts:</strong> Otherwise.
@@ -146,7 +146,7 @@ To have a grade > 0, the following criteria must be met:
             <td>2 pts</td>
         </tr>
         <tr>
-            <td>4) Creation of new tests for coverage improvement.</td>
+            <td>Creation of new tests for coverage improvement.</td>
             <td>
                 <strong>2 Pts:</strong> There is evidence (code) that each student created two new test functions. <br>
                 <strong>1 Pt:</strong> There is evidence (code) that the group created some new tests, but not two per member.<br>
@@ -155,7 +155,7 @@ To have a grade > 0, the following criteria must be met:
             <td>2 pts</td>
         </tr>
         <tr>
-            <td>5) Effectiveness of each new test in improving coverage.</td>
+            <td>Effectiveness of each new test in improving coverage.</td>
             <td>
                 <strong>2 Pts:</strong> There is evidence (screenshot of the old and new results) that the tests created by each member improve coverage.<br>
                 <strong>1 Pt:</strong> There is evidence (screenshot of the old and new results) that some tests improve coverage, but not all.<br>
@@ -164,7 +164,7 @@ To have a grade > 0, the following criteria must be met:
             <td>2 pts</td>
         </tr>
         <tr>
-            <td>6) Organization and clarity of the report (`README.md`).</td>
+            <td>Organization and clarity of the report (`README.md`).</td>
             <td>
                 <strong>2 Pts:</strong> The report follows the template and is clear.<br>
                 <strong>1 Pt:</strong> The report is sufficient for understanding but could be improved.<br>
