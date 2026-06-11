@@ -175,7 +175,7 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td><strong>Total</strong></td>
             <td></td>
-            <td>12pts</td>
+            <td>10pts</td>
         </tr>
     </tbody>
 </table>
