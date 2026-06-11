@@ -2,7 +2,7 @@
 
 ## 1. Goal
 
-The goal of this assignment is to experiment with test creation and coverage measurement. Each group will create its own project, develop test cases, measure test coverage, and refine or add new test cases to improve coverage.
+The goal of this assignment is to experiment with test creation and coverage measurement. Each group will create its own project, develop test functions, measure test coverage, and refine or add new test functions to improve coverage.
 
 ## 2. Deliverables and Presentation
 
@@ -42,7 +42,7 @@ Once your project is registered, the group will implement it collaboratively on 
 
 - A `src/` folder for all application source code;
 
-- A `tests/` folder for all test code (test classes and test cases);
+- A `tests/` folder for all test code (test classes and test functions);
 
 - A `README.md` file, which is the final report mentioned in Section 2.
 
@@ -56,9 +56,9 @@ The project must be modular to allow for test coverage analysis. Each group memb
 
 Once the project is fully implemented, the group will start testing it.
 
-### 3.4 Write the Initial Test Cases
+### 3.4 Write the Initial Test Functions
 
-Each group member must write **one test case** for the project at this point of the assignment. The test case:
+Each group member must write **one test function** for the project at this point of the assignment. The test function:
 
 - can test any function of the project;
 
@@ -72,7 +72,7 @@ This task ensures that the project has some baseline tests before test coverage 
 
 ### 3.5 Measure Initial Test Coverage
 
-Now that each group member has written one test case, it is time to measure how much of the project is actually covered by these test cases.
+Now that each group member has written one test function, it is time to measure how much of the project is actually covered by these test functions.
 
 - Use an existing coverage measurement tool (see suggestions in Section 5).
 
@@ -82,11 +82,11 @@ At this stage, your goal is to identify functions or execution paths that remain
 
 ### 3.6 Improve Coverage
 
-Now that you have measured initial coverage, you will write additional test cases to ensure that more of the code is tested.
+Now that you have measured initial coverage, you will write additional test functions to ensure that more of the code is tested.
 
-Each group member must write **two new test cases** with inputs that force the program to take those uncovered paths.
+Each group member must write **two new test functions** with inputs that force the program to take those uncovered paths.
 
-Once new test cases are written, run the coverage tool again to check if test coverage has improved. If some branches are still not covered, refine your test cases until the necessary coverage is achieved (which should be **the double of the coverage** found in Task 3.5).
+Once new test functions are written, run the coverage tool again to check if test coverage has improved. If some branches are still not covered, refine your test functions until the necessary coverage is achieved (which should be **the double of the coverage** found in Task 3.5).
 
 ### 3.7 Report (README.md)
 
