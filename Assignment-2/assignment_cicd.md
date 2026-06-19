@@ -22,8 +22,6 @@ For the presentation, one group member should share their screen, and the evalua
 
 **Deadlines**:
 
-- Deadline for signing up for the presentation (the link will be provided): **21st of June, 23:59 AMS time**.
-
 - Deadline for deliverables: **25th of June, 23:59 AMS time**.
 
 - Presentation day: **26th of June**.
