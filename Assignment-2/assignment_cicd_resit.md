@@ -100,25 +100,25 @@ To qualify for a grade, the following criteria must be met:
         <tr>
             <td>1) Workflow #1.</td>
             <td>
-                <p><strong>4 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works.</p>
+                <p><strong>8 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works.</p>
                 <p><strong>0 Pts:</strong> Otherwise.</p>
             </td>
-            <td>4 pts</td>
+            <td>8 pts</td>
         </tr>
         <tr>
             <td>2) Workflow #2.</td>
             <td>
-                <p><strong>4 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works and that new automated releases contain a tag and files (code archive).</p>
-                <p><strong>3 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works and that new automated releases contain a tag but not files (code archive).</p>
+                <p><strong>8 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works and that new automated releases contain a tag and files (code archive).</p>
+                <p><strong>4 Pts:</strong> There is evidence (link in the report and demonstration during the presentation) that the workflow works and that new automated releases contain a tag but not files (code archive).</p>
                 <p><strong>0 Pts:</strong> Otherwise.</p>
             </td>
-            <td>4 pts</td>
+            <td>8 pts</td>
         </tr>
         <tr>
             <td>3) Commit Messages.</td>
             <td>
-                <p><strong>2 Pts:</strong> All or most commit messages are clear, follow a pattern, and are traceable.</p>
-                <p><strong>1 Pts:</strong> Some commit messages follow the criteria.</p>
+                <p><strong>4 Pts:</strong> All or most commit messages are clear, follow a pattern, and are traceable.</p>
+                <p><strong>2 Pts:</strong> Some commit messages follow the criteria.</p>
                 <p><strong>0 Pts:</strong> Commit messages are unclear, messy, or follow different patterns.</p>
             </td>
             <td>2 pts</td>
@@ -126,8 +126,8 @@ To qualify for a grade, the following criteria must be met:
         <tr>
             <td>4) Report (<code>README.md</code>).</td>
             <td>
-                <p><strong>2 Pts:</strong> The report follows the template and is clear.</p>
-                <p><strong>1 Pts:</strong> The report is sufficient for understanding but could be improved.</p>
+                <p><strong>4 Pts:</strong> The report follows the template and is clear.</p>
+                <p><strong>2 Pts:</strong> The report is sufficient for understanding but could be improved.</p>
                 <p><strong>0 Pts:</strong> The report is insufficient or does not follow the template.</p>
             </td>
             <td>2 pts</td>
@@ -135,7 +135,7 @@ To qualify for a grade, the following criteria must be met:
         <tr>
             <td><strong>Total</strong></td>
             <td></td>
-            <td>12pts</td>
+            <td>24pts</td>
         </tr>
     </tbody>
 </table>
