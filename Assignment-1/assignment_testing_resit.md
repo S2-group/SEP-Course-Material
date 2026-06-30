@@ -116,7 +116,7 @@ To have a grade > 0, the following criteria must be met:
                 <strong>2 Pt:</strong> There is evidence in the report that you created one initial test case.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
-            <td>1 pt</td>
+            <td>2 pt</td>
         </tr>
         <tr>
             <td>2) Execution of existing coverage measurement tool on the initial test.</td>
@@ -124,7 +124,7 @@ To have a grade > 0, the following criteria must be met:
                 <strong>2 Pt:</strong> There is evidence (screenshot of the results) that a tool was executed on the initial test.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
-            <td>1 pt</td>
+            <td>2 pt</td>
         </tr>
         <tr>
             <td>3) Creation of new tests for coverage improvement.</td>
@@ -133,7 +133,7 @@ To have a grade > 0, the following criteria must be met:
                 <strong>1 Pt:</strong> There is evidence (screenshot of the old and new results) that the new test(s) improve coverage.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
-            <td>1 pt</td>
+            <td>2 pt</td>
         </tr>
         <tr>
             <td>4) Effectiveness of the new test(s) in improving coverage.</td>
@@ -141,7 +141,7 @@ To have a grade > 0, the following criteria must be met:
                 <strong>2 Pt:</strong> There is evidence (screenshot of the old and new results) that the new test(s) improve coverage.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
-            <td>0 pt: Otherwise</td>
+            <td>2 pt</td>
         </tr>
         <tr>
             <td>5) Organization and clarity of the report (`README.md`).</td>
@@ -155,7 +155,7 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td><strong>Total</strong></td>
             <td></td>
-            <td>5 pts</td>
+            <td>10 pts</td>
         </tr>
     </tbody>
 </table>
