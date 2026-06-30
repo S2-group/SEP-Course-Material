@@ -121,7 +121,7 @@ To qualify for a grade, the following criteria must be met:
                 <p><strong>2 Pts:</strong> Some commit messages follow the criteria.</p>
                 <p><strong>0 Pts:</strong> Commit messages are unclear, messy, or follow different patterns.</p>
             </td>
-            <td>2 pts</td>
+            <td>4 pts</td>
         </tr>
         <tr>
             <td>4) Report (<code>README.md</code>).</td>
@@ -130,7 +130,7 @@ To qualify for a grade, the following criteria must be met:
                 <p><strong>2 Pts:</strong> The report is sufficient for understanding but could be improved.</p>
                 <p><strong>0 Pts:</strong> The report is insufficient or does not follow the template.</p>
             </td>
-            <td>2 pts</td>
+            <td>4 pts</td>
         </tr>
         <tr>
             <td><strong>Total</strong></td>
