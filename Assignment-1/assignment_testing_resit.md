@@ -113,7 +113,7 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>1) Creation of the initial test.</td>
             <td>
-                <strong>1 Pt:</strong> There is evidence in the report that you created one initial test case.<br>
+                <strong>2 Pt:</strong> There is evidence in the report that you created one initial test case.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
             <td>1 pt</td>
@@ -121,7 +121,7 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>2) Execution of existing coverage measurement tool on the initial test.</td>
             <td>
-                <strong>1 Pt:</strong> There is evidence (screenshot of the results) that a tool was executed on the initial test.<br>
+                <strong>2 Pt:</strong> There is evidence (screenshot of the results) that a tool was executed on the initial test.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
             <td>1 pt</td>
@@ -129,7 +129,8 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>3) Creation of new tests for coverage improvement.</td>
             <td>
-                <strong>1 Pt:</strong> There is evidence (code) that you created at least one new test case.<br>
+                <strong>2 Pt:</strong> There is evidence (code) that you created at least one new test case.<br>
+                <strong>1 Pt:</strong> There is evidence (screenshot of the old and new results) that the new test(s) improve coverage.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
             <td>1 pt</td>
@@ -137,18 +138,19 @@ To have a grade > 0, the following criteria must be met:
         <tr>
             <td>4) Effectiveness of the new test(s) in improving coverage.</td>
             <td>
-                <strong>1 Pt:</strong> There is evidence (screenshot of the old and new results) that the new test(s) improve coverage.<br>
+                <strong>2 Pt:</strong> There is evidence (screenshot of the old and new results) that the new test(s) improve coverage.<br>
                 <strong>0 Pts:</strong> Otherwise.
             </td>
-            <td>1 pt</td>
+            <td>0 pt: Otherwise</td>
         </tr>
         <tr>
             <td>5) Organization and clarity of the report (`README.md`).</td>
             <td>
-                <strong>1 Pt:</strong> The report follows the template and is clear.<br>
+                <strong>2 Pt:</strong> The report follows the template and is clear.<br>
+                <strong>1 Pt:</strong> The report is sufficient for understanding but could be improved.<br>
                 <strong>0 Pts:</strong> The report is insufficient or does not follow the template.
             </td>
-            <td>1 pt</td>
+            <td>2 pt</td>
         </tr>
         <tr>
             <td><strong>Total</strong></td>
